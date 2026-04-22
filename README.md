@@ -75,9 +75,7 @@ release_v0/
 
 ### Kerbeus Model
 
-```
 ![Kerbeus Architecture ](kerbeus1.jpg)
-```
 
 ### Components
 
